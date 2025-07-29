@@ -49,7 +49,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center text-base gap-8">
           <a href="" className="text-2xl font-semibold flex items-center space-x-3">
             <img src={logo} alt="" className="w-10 inline-block items-center"/>
-            <span>StudioLink</span>
+            <span>SABTone</span>
           </a>
 
           <ul className="md:flex space-x-12 hidden">
